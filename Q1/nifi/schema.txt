@@ -1,0 +1,15 @@
+{
+ "name": "schema",
+ "namespace": "nifi",
+ "type": "record",
+ "fields": [
+ {"name": "name" , "type":"string"},
+ {"name": "age" , "type" : "int"},
+ {"name": "street" , "type" : "string"},
+ {"name": "city" , "type" : "string"},
+ {"name": "state" , "type" : "int"},
+ {"name": "zip" , "type" : "int"},
+ {"name": "Lng" , "type" : "float"},
+ {"name": "Lat" , "type" : "float"}
+ ]
+}

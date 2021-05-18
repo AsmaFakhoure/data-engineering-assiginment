@@ -1,0 +1,16 @@
+##1
+#run the docker-compose file (for the nifi)
+docker-compose up
+
+##2
+#then go to the browser -->localhost:8080
+#nifi is opened now 
+
+##3
+#start drag and drop the processors that you need or a ready templete
+
+
+##4
+#configure all the processors
+#put the right path to read the csv file
+#for more details go to the ppt
